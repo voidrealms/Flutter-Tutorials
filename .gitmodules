@@ -67,3 +67,6 @@
 [submodule "Flutter-23"]
 	path = Flutter-23
 	url = https://github.com/voidrealms/Flutter-23.git
+[submodule "Flutter-24"]
+	path = Flutter-24
+	url = https://github.com/voidrealms/Flutter-24.git
